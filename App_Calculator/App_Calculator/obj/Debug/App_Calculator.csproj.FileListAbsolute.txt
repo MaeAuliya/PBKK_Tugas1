@@ -1,0 +1,11 @@
+C:\Users\LENOVO\Documents\Kuliah\Semester 6\PBKK\Tugas\Tugas 1_Calculator\App_Calculator\App_Calculator\bin\Debug\App_Calculator.exe.config
+C:\Users\LENOVO\Documents\Kuliah\Semester 6\PBKK\Tugas\Tugas 1_Calculator\App_Calculator\App_Calculator\bin\Debug\App_Calculator.exe
+C:\Users\LENOVO\Documents\Kuliah\Semester 6\PBKK\Tugas\Tugas 1_Calculator\App_Calculator\App_Calculator\bin\Debug\App_Calculator.pdb
+C:\Users\LENOVO\Documents\Kuliah\Semester 6\PBKK\Tugas\Tugas 1_Calculator\App_Calculator\App_Calculator\obj\Debug\App_Calculator.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\Kuliah\Semester 6\PBKK\Tugas\Tugas 1_Calculator\App_Calculator\App_Calculator\obj\Debug\App_Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Documents\Kuliah\Semester 6\PBKK\Tugas\Tugas 1_Calculator\App_Calculator\App_Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\LENOVO\Documents\Kuliah\Semester 6\PBKK\Tugas\Tugas 1_Calculator\App_Calculator\App_Calculator\obj\Debug\App_Calculator.Properties.Resources.resources
+C:\Users\LENOVO\Documents\Kuliah\Semester 6\PBKK\Tugas\Tugas 1_Calculator\App_Calculator\App_Calculator\obj\Debug\App_Calculator.csproj.GenerateResource.cache
+C:\Users\LENOVO\Documents\Kuliah\Semester 6\PBKK\Tugas\Tugas 1_Calculator\App_Calculator\App_Calculator\obj\Debug\App_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Kuliah\Semester 6\PBKK\Tugas\Tugas 1_Calculator\App_Calculator\App_Calculator\obj\Debug\App_Calculator.exe
+C:\Users\LENOVO\Documents\Kuliah\Semester 6\PBKK\Tugas\Tugas 1_Calculator\App_Calculator\App_Calculator\obj\Debug\App_Calculator.pdb
